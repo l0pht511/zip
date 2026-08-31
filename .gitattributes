@@ -1,1 +1,2 @@
+ficclib.zip filter=lfs diff=lfs merge=lfs -text
 /ficclib.zip filter=lfs diff=lfs merge=lfs -text
